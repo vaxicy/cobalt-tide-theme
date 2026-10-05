@@ -1,0 +1,96 @@
+{
+  "manifest_version": 3,
+  "name": "Cobalt Tide Theme",
+  "version": "1.0.0",
+  "description": "A fresh Chrome theme with deep cobalt, sky blue, and soft icy aqua.",
+  "icons": {
+    "128": "logo/logo128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [
+        41,
+        54,
+        129
+      ],
+      "frame_inactive": [
+        41,
+        54,
+        129
+      ],
+      "toolbar": [
+        149,
+        204,
+        221
+      ],
+      "tab_text": [
+        35,
+        48,
+        82
+      ],
+      "tab_background_text": [
+        247,
+        251,
+        252
+      ],
+      "tab_background_text_inactive": [
+        247,
+        251,
+        252
+      ],
+      "bookmark_text": [
+        35,
+        48,
+        82
+      ],
+      "toolbar_text": [
+        35,
+        48,
+        82
+      ],
+      "toolbar_button_icon": [
+        35,
+        48,
+        82
+      ],
+      "omnibox_background": [
+        247,
+        251,
+        252
+      ],
+      "omnibox_text": [
+        35,
+        48,
+        82
+      ],
+      "ntp_background": [
+        208,
+        231,
+        230
+      ],
+      "ntp_text": [
+        35,
+        48,
+        82
+      ],
+      "ntp_link": [
+        66,
+        116,
+        217
+      ],
+      "ntp_header": [
+        66,
+        116,
+        217
+      ],
+      "button_background": [
+        41,
+        54,
+        129
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}
